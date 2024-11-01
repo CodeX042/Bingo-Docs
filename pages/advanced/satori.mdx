@@ -47,5 +47,16 @@ Make sure you have the following installed:
    ```bash
    npm start
 
+### Running the Application
+
+3. **Launch Lisk and Arbitrum nodes:** Follow setup instructions for Lisk SDK and Arbitrum.
+
+4. **Deploy the Arbitrum smart contracts with Forge:**
+   - Ensure Forge is installed and set up by following the Foundry book.
+   - Deploy contracts from the contracts folder:
+   ```bash
+   forge create --rpc-url <ARBITRUM_RPC_URL> --private-key <YOUR_PRIVATE_KEY> src/YourContract
+
+
 
 
