@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>METAMUSE</span>,
+  logo: <span>BinGo</span>,
   project: {
     link: 'https://github.com/CodeX042/METAMUSE.git',
   },
