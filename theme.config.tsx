@@ -4,12 +4,12 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>BinGo</span>,
   project: {
-    link: 'https://github.com/CodeX042/METAMUSE.git',
+    link: 'https://github.com/CodeX042/BinGo.git',
   },
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/CodeX042/METAMUSE.git',
+  docsRepositoryBase: 'https://github.com/CodeX042/BinGo.git',
   footer: {
     text: 'BY CodeX',
   },
